@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Andrew Fernandes
+# 👋 Hello, I'm @AndyFerns
 
 🎓 I'm a budding Computer Science Engineer passionate about all things software development. I'm currently delving into Rust and systems-level programming, while also strengthening my foundations in Python, C, Java, and HTML.
 
