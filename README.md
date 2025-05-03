@@ -19,7 +19,7 @@ Feel free to reach out to me:
 
 - 📧 Email: [write2andrew.important@gmail.com](mailto:write2andrew.important@gmail.com)
 
-I'm always open to discussing new ideas, collaborations, or just a friendly chat about technology!
+I'm always open to discussing new ideas and collaborations!
 
 ---
 
