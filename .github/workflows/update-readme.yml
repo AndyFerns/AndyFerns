@@ -14,20 +14,29 @@ jobs:
       - name: Fetch Public Repos and Inject into README
         run: |
           echo "Fetching repo list..."
-          REPOS=$(curl -s "https://api.github.com/users/AndyFerns/repos?per_page=100" | jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) - \(.description // "No description")"')
+          curl -s "https://api.github.com/users/AndyFerns/repos?per_page=100" | \
+            jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) - \(.description // "No description")"' > projects.md
 
-          echo "Updating README..."
-          awk -v repos="$REPOS" '
-            BEGIN { print_section=1 }
-            /<!--START_PROJECTS-->/ { print; print repos; print_section=0; next }
-            /<!--END_PROJECTS-->/ { print_section=1 }
-            print_section { print }
+          echo "Injecting into README..."
+          awk '
+            /<!--START_PROJECTS-->/ {
+              print;
+              while ((getline line < "projects.md") > 0) print line;
+              skip=1; next
+            }
+            /<!--END_PROJECTS-->/ { print; skip=0; next }
+            skip != 1 { print }
           ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git commit -m "Auto-update projects section" || echo "No changes to commit"
-          git push
+
+          if git diff --quiet; then
+            echo "No changes to commit."
+          else
+            git add README.md
+            git commit -m "Auto-update projects section"
+            git push
+          fi
