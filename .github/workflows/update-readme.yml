@@ -16,10 +16,10 @@ jobs:
 
       - name: Fetch Public Repos and Inject into README
         run: |
-          echo "Fetching repo list..."
-          curl -s "https://api.github.com/users/AndyFerns/repos?per_page=100" | \
-            jq -r '.[] | select(.fork == false) | "- [\(.name)](\(.html_url)) - \(.description // "No description")"' > projects.md
-
+          echo "Fetching public repos..."
+          curl -s "https://api.github.com/users/AndyFerns/repos?per_page=100&type=public" | \
+            jq -r '.[] | select(.private == false and .fork == false) | "- [\(.name)](\(.html_url)) - \(.description // "No description")"' > projects.md
+      
           echo "Injecting into README..."
           awk '
             /<!--START_PROJECTS-->/ {
@@ -30,6 +30,7 @@ jobs:
             /<!--END_PROJECTS-->/ { print; skip=0; next }
             skip != 1 { print }
           ' README.md > README.tmp && mv README.tmp README.md
+
 
       - name: Commit and Push Changes
         run: |
