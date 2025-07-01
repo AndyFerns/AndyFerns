@@ -11,9 +11,11 @@
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AndyFerns&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AndyFerns&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AndyFerns&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=AndyFerns&theme=synthwave&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🚀 Current Endeavors
 
