@@ -22,6 +22,18 @@
 <!--START_PROJECTS-->
 | Project | Description | Languages |
 |---------|-------------|-----------|
+| [AndyFerns](https://github.com/AndyFerns/AndyFerns) | Config files for my GitHub profile. |  |
+| [ascii-player](https://github.com/AndyFerns/ascii-player) | simple project displaying various videos in the terminal  |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [Automated-Reasoning-Project](https://github.com/AndyFerns/Automated-Reasoning-Project) | A project aiming to implement Automated Reasoning in First Order Logic using NLP |  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [auto_book_pub](https://github.com/AndyFerns/auto_book_pub) | Project used for scraping documents and adding an AI Twist to them |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [code-detangler](https://github.com/AndyFerns/code-detangler) | practice project for flask-cors and js-cytoscape |  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [Code-Reformatter](https://github.com/AndyFerns/Code-Reformatter) | a personal project made to help me format code for college submissions |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [Match-Result-Predictor](https://github.com/AndyFerns/Match-Result-Predictor) | A project aiming to implement a Random Forest Classifier in order to predict the outcomes of football matches based on historical data |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [Multi-Agent-System](https://github.com/AndyFerns/Multi-Agent-System) | A project used to parse Intent from .pdf, .json or .txt documents   |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [Neural-Network-NumPy](https://github.com/AndyFerns/Neural-Network-NumPy) | Simple neural network built using just NumPy. Made for learning purposes |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [ray_tracer](https://github.com/AndyFerns/ray_tracer) | Simple ray-tracer built using Rust |  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
+| [Socket-Chat-Application](https://github.com/AndyFerns/Socket-Chat-Application) | A simple mini project aiming to understand and implement socket programming in java |  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| [vscode-dir-builder](https://github.com/AndyFerns/vscode-dir-builder) | Leverage directory trees provided by LLMs and convert them into actual files and folders in memory |  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge) |
 <!--END_PROJECTS-->
 
 ## 🚀 Current Endeavors
