@@ -34,6 +34,7 @@
 | [Neural-Network-NumPy](https://github.com/AndyFerns/Neural-Network-NumPy) | Simple neural network built using just NumPy. Made for learning purposes |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 | [ray_tracer](https://github.com/AndyFerns/ray_tracer) | Simple ray-tracer built using Rust |  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
 | [Socket-Chat-Application](https://github.com/AndyFerns/Socket-Chat-Application) | A simple mini project aiming to understand and implement socket programming in java |  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
+| [Sudoku-Solver](https://github.com/AndyFerns/Sudoku-Solver) | Simple project implementing sudoku solving algorithms  |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 | [vscode-dir-builder](https://github.com/AndyFerns/vscode-dir-builder) | Leverage directory trees provided by LLMs and convert them into actual files and folders in memory |  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge) |
 <!--END_PROJECTS-->
 
