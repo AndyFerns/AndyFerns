@@ -17,7 +17,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🛠️ Projects
+## 🛠️ Impactful Projects
 
 <!--START_PROJECTS-->
 | Project | Description | Languages |
