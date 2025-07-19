@@ -24,11 +24,24 @@ jobs:
 
           repos=$(curl -s https://api.github.com/users/AndyFerns/repos?per_page=100&type=public)
 
-          echo "$repos" | jq -r '.[] | select(.fork == false) | [.name, .html_url, (.description // "No description")] | @tsv' | while IFS=$'\t' read -r name url desc; do
+          echo "$repos" | jq -r '
+            map(select(.fork == false)) |
+            map({
+              name: .name,
+              url: .html_url,
+              desc: (.description // "No description"),
+              stars: .stargazers_count,
+              forks: .forks_count,
+              score: (.stargazers_count + .forks_count)
+            }) |
+            sort_by(-.score) |
+            .[:7] |
+            .[]
+            | [.name, .url, .desc] | @tsv
+          ' | while IFS=$'\t' read -r name url desc; do
             lang_data=$(curl -s "https://api.github.com/repos/AndyFerns/$name/languages")
             langs=""
             for lang in $(echo "$lang_data" | jq -r 'keys[]'); do
-              color=$(echo "$lang" | tr '[:upper:]' '[:lower:]')
               case "$lang" in
                 Python) badge="![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)" ;;
                 C) badge="![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)" ;;
@@ -67,6 +80,6 @@ jobs:
             echo "✅ No changes to commit."
           else
             git add README.md
-            git commit -m "Update projects section with table"
+            git commit -m "Update top 7 projects by popularity (stars + forks)"
             git push origin main
           fi
