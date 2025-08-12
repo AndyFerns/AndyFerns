@@ -22,6 +22,13 @@
 <!--START_PROJECTS-->
 | Project | Description | Languages |
 |---------|-------------|-----------|
+| [Automated-Reasoning-Project](https://github.com/AndyFerns/Automated-Reasoning-Project) | A project aiming to implement Automated Reasoning in First Order Logic using NLP |  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [GBCee](https://github.com/AndyFerns/GBCee) | A Gameboy emulator built entirely in C and the SDL2 library |  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
+| [vscode-dir-builder](https://github.com/AndyFerns/vscode-dir-builder) | Leverage directory trees provided by LLMs and convert them into actual files and folders in memory |  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge) |
+| [csv-query](https://github.com/AndyFerns/csv-query) | a command line SQL-like query engine for CSV files in particular |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [Match-Result-Predictor](https://github.com/AndyFerns/Match-Result-Predictor) | A project aiming to implement a Random Forest Classifier in order to predict the outcomes of football matches based on historical data |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [AndyFerns](https://github.com/AndyFerns/AndyFerns) | Config files for my GitHub profile. |  |
+| [ascii-player](https://github.com/AndyFerns/ascii-player) | simple project displaying various videos in the terminal  |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 <!--END_PROJECTS-->
 
 ## 🚀 Current Endeavors
