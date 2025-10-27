@@ -27,8 +27,8 @@
 | [vscode-dir-builder](https://github.com/AndyFerns/vscode-dir-builder) | Leverage directory trees provided by LLMs and convert them into actual files and folders in memory |  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge) |
 | [csv-query](https://github.com/AndyFerns/csv-query) | a command line SQL-like query engine for CSV files in particular |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 | [Match-Result-Predictor](https://github.com/AndyFerns/Match-Result-Predictor) | A project aiming to implement a Random Forest Classifier in order to predict the outcomes of football matches based on historical data |  ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
+| [NourishFit](https://github.com/AndyFerns/NourishFit) | A Mobile application used to track and maintain diet plans, keep a note of user-running sessions as well as implementing AI/ML to provide users with custom suggestions |  ![Kotlin](https://img.shields.io/badge/Kotlin-gray?style=for-the-badge) |
 | [Accessible-Math-Reader](https://github.com/AndyFerns/Accessible-Math-Reader) | No description |  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
-| [AndyFerns](https://github.com/AndyFerns/AndyFerns) | Config files for my GitHub profile. |  |
 <!--END_PROJECTS-->
 
 ## 🚀 Current Endeavors
