@@ -1,7 +1,9 @@
 # 👋 Hello, I'm @AndyFerns
 
 🎓 I'm a budding Computer Science Engineer passionate about all things software development. 
+
 💻 I have active experience with Python and frameworks like Flask and Django. 
+
 🤖 I'm currently delving into Systems Programming and NLP, while also strengthening my foundations in C, Java and JavaScript.
 
 
@@ -36,7 +38,7 @@
 - 🌐 Working on projects related to software development.
 - 🦀 Learning Rust to enhance my systems programming skills.
 - 🤝 Looking to collaborate on exciting projects and open-source contributions.
-- 
+
 ## 📫 Let's Connect
 
 Feel free to reach out to me:
