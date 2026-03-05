@@ -35,8 +35,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>🌐 Web Development</b></summary>
 <br>
@@ -63,8 +61,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>🧠 AI / Machine Learning / Data Science</b></summary>
 <br>
@@ -84,8 +80,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>🗄 Databases</b></summary>
 <br>
@@ -99,8 +93,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>⚙️ DevOps / Infrastructure</b></summary>
 <br>
@@ -112,8 +104,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)
 
 </details>
-
----
 
 <details>
 <summary><b>🧰 Development Tools</b></summary>
@@ -129,8 +119,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>🖥 Systems / Scripting</b></summary>
 <br>
@@ -140,8 +128,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>📱 Mobile / Application Development</b></summary>
 <br>
@@ -150,9 +136,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
 
 </details>
-
----
-
+  
 <details>
 <summary><b>🎮 Game / Graphics / Creative</b></summary>
 <br>
@@ -163,8 +147,6 @@
 
 </details>
 
----
-
 <details>
 <summary><b>🔗 Blockchain / Web3</b></summary>
 <br>
@@ -173,8 +155,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 
 </details>
-
----
 
 <details>
 <summary><b>📝 Documentation / Markup</b></summary>
