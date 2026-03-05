@@ -167,13 +167,16 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AndyFerns&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndyFerns&theme=synthwave&hide_border=true&show_icons=true" height="165">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndyFerns&layout=compact&theme=synthwave&hide_border=true" height="165">
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=AndyFerns&theme=synthwave&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AndyFerns&theme=synthwave&hide_border=true">
+</p>
 
 ## 🛠️ Impactful Projects
 
