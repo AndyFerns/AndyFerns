@@ -1,11 +1,21 @@
-# 👋 Hello, I'm @AndyFerns
+<h1 align="center">👋 Hello! I'm AndyFerns</h1>
 
-🎓 I'm a budding Computer Science Engineer passionate about all things software development. 
+<p align="center">
+  <strong>Budding Computer Engineering student passionate about everything related to software!</strong>
+</p>
 
-💻 I have active experience with Python and frameworks like Flask and Django. 
+<p align="center">
+  <img src="" width="120">
+</p>
 
-🤖 I'm currently delving into Systems Programming and NLP, while also strengthening my foundations in C, Java and JavaScript.
 
+🎓 **Computer Engineering student** passionate about building software and problem solving.
+
+💻 Experienced with **Python**, including frameworks like **Flask** and **Django**.
+
+🤖 Currently exploring **Systems Programming** and **Natural Language Processing**, while strengthening my foundations in **C, Java, and JavaScript**.
+
+---
 
 ## 💻 Tech Stack:
 
