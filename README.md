@@ -170,12 +170,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndyFerns&theme=synthwave&hide_border=true&show_icons=true" height="165">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndyFerns&layout=compact&theme=synthwave&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyFerns&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AndyFerns&theme=synthwave&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndyFerns&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="27%" />
 </p>
 
 ## 🛠️ Impactful Projects
