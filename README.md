@@ -20,7 +20,7 @@
 ## 💻 Tech Stack
 
 <details>
-<summary><b>🧠 Programming Languages</b></summary>
+<summary><b>Programming Languages</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-<summary><b>🌐 Web Development</b></summary>
+<summary><b>Web Development</b></summary>
 <br>
 
 **Frontend**
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary><b>🧠 AI / Machine Learning / Data Science</b></summary>
+<summary><b>AI / Machine Learning / Data Science</b></summary>
 <br>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary><b>🗄 Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary><b>⚙️ DevOps / Infrastructure</b></summary>
+<summary><b>DevOps / Infrastructure</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
@@ -106,7 +106,7 @@
 </details>
 
 <details>
-<summary><b>🧰 Development Tools</b></summary>
+<summary><b>Development Tools</b></summary>
 <br>
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=flat) 
@@ -120,7 +120,7 @@
 </details>
 
 <details>
-<summary><b>🖥 Systems / Scripting</b></summary>
+<summary><b>Systems / Scripting</b></summary>
 <br>
 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
@@ -129,7 +129,7 @@
 </details>
 
 <details>
-<summary><b>📱 Mobile / Application Development</b></summary>
+<summary><b>Mobile / Application Development</b></summary>
 <br>
 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) 
@@ -138,7 +138,7 @@
 </details>
   
 <details>
-<summary><b>🎮 Game / Graphics / Creative</b></summary>
+<summary><b>Game / Graphics / Creative</b></summary>
 <br>
 
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white) 
@@ -148,7 +148,7 @@
 </details>
 
 <details>
-<summary><b>🔗 Blockchain / Web3</b></summary>
+<summary><b>Blockchain / Web3</b></summary>
 <br>
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) 
@@ -157,7 +157,7 @@
 </details>
 
 <details>
-<summary><b>📝 Documentation / Markup</b></summary>
+<summary><b>Documentation / Markup</b></summary>
 <br>
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
@@ -194,9 +194,9 @@
 
 ## 🚀 Current Endeavors
 
-- 🌐 Working on projects related to software development.
-- 🦀 Learning Rust to enhance my systems programming skills.
-- 🤝 Looking to collaborate on exciting projects and open-source contributions.
+- Working on projects related to software development.
+- Learning Rust to enhance my systems programming skills.
+- Looking to collaborate on exciting projects and open-source contributions.
 
 ## 📫 Let's Connect
 
