@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello! I'm AndyFerns</h1>
 
 <p align="center">
-  <strong>Budding Computer Engineering student passionate about everything related to software!</strong>
+  <strong>Computer Engineering student passionate about everything related to software!</strong>
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
   <img src="assets/gliscor.gif" width="80">
 </p>
 
-🎓 **Computer Engineering student** passionate about building software and problem solving.
+- **Computer Engineering student** passionate about building software and problem solving.
 
-💻 Experienced with **Python**, including frameworks like **Flask** and **Django**.
+- Experienced with **Python**, including frameworks like **Flask** and **Django**.
 
-🤖 Currently exploring **Systems Programming** and **Natural Language Processing**, while strengthening my foundations in **C, Java, and JavaScript**.
+- Currently exploring **Systems Programming** and **Natural Language Processing**, while strengthening my foundations in **C, Python and Java**.
 
 ---
 ## 💻 Tech Stack
@@ -148,11 +148,13 @@
 </details>
 
 <details>
-<summary><b>Blockchain / Web3</b></summary>
+<summary><b>Operating Systems</b></summary>
 <br>
 
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-3C3C3D?logo=windows11&logoColor=blue) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-7A1606?logo=ubuntu&logoColor=orange)
+![Debian](https://img.shields.io/badge/Debian-FD475D?logo=debian&logoColor=lightred)
+![Arch Linux](https://img.shields.io/badge/ArchLinux-039BE5?logo=archlinux&logoColor=aqua)
 
 </details>
 
@@ -167,7 +169,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyFerns&theme=dracula&hide_border=true" />
@@ -178,7 +180,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="27%" />
 </p>
 
-## 🛠️ Impactful Projects
+## Impactful Projects
 
 <!--START_PROJECTS-->
 | Project | Description | Languages |
@@ -192,17 +194,17 @@
 | [Hibiscus](https://github.com/AndyFerns/Hibiscus) | A modern workspace editor for study and productivity |  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge) |
 <!--END_PROJECTS-->
 
-## 🚀 Current Endeavors
+## Current Endeavors
 
 - Working on projects related to software development.
 - Learning Rust to enhance my systems programming skills.
 - Looking to collaborate on exciting projects and open-source contributions.
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to reach out to me:
 
-- 📧 Email: [write2andrew.important@gmail.com](mailto:write2andrew.important@gmail.com)
+- Email: [write2andrew.important@gmail.com](mailto:write2andrew.important@gmail.com)
 
 I'm always open to discussing new ideas and collaborations!
 
