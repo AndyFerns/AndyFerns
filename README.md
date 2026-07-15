@@ -1,23 +1,31 @@
-<h1 align="center">👋 Hello! I'm AndyFerns</h1>
+<h2 align="center">
+<img src="assets/bulbasaur-pokemon.gif" width="50">
+hey! I'm andyferns
+<img src="assets/gliscor.gif" width="50">
+</h2>
 
 <p align="center">
   <strong>Computer Engineering student passionate about everything related to software!</strong>
 </p>
 
+<!-- <p align="center">
+  <img src="assets/bulbasaur-pokemon.gif" width="50">
+</p> -->
+
 <p align="center">
-  <img src="assets/bulbasaur-pokemon.gif" width="80">
-  <img src="assets/kartana.gif" width="80">
-  <img src="assets/gliscor.gif" width="80">
+  <img src="assets/btop.svg" alt="btop — andy@andyferns" />
 </p>
 
+<!-- --- -->
+<!-- 
 - **Computer Engineering student** passionate about building software and problem solving.
 
 - Experienced with **Python**, including frameworks like **Flask** and **Django**.
 
-- Currently exploring **Systems Programming** and **Natural Language Processing**, while strengthening my foundations in **C, Python and Java**.
+- Currently exploring **Systems Programming** and **Natural Language Processing**, while strengthening my foundations in **C, Python and Java**. -->
 
----
-## 💻 Tech Stack
+<!-- <p align="cents
+## Tech Stack
 
 <details>
 <summary><b>Programming Languages</b></summary>
@@ -167,23 +175,22 @@
 
 </details>
 
----
-
-## GitHub Stats
+<!-- ## GitHub Stats -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyFerns&theme=dracula&hide_border=true" />
 </p>
 
+<!-- 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndyFerns&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="35%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyFerns&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="27%" />
-</p>
+</p> -->
 
-## Impactful Projects
-
+<!-- ## Impactful Projects -->
+<!-- 
 <!--START_PROJECTS-->
-| Project | Description | Languages |
+<!-- | Project | Description | Languages |
 |---------|-------------|-----------|
 | [GBCee](https://github.com/AndyFerns/GBCee) | A Gameboy emulator built entirely in C and the SDL2 library |  ![Assembly](https://img.shields.io/badge/Assembly-gray?style=for-the-badge) ![Batchfile](https://img.shields.io/badge/Batchfile-gray?style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-gray?style=for-the-badge) ![Makefile](https://img.shields.io/badge/Makefile-gray?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 | [ruclouds](https://github.com/AndyFerns/ruclouds) | Animated drifting clouds in your terminal! |  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
@@ -192,28 +199,16 @@
 | [vscode-dir-builder](https://github.com/AndyFerns/vscode-dir-builder) | Leverage directory trees provided by LLMs and convert them into actual files and folders in memory |  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=for-the-badge) |
 | [Accessible-Math-Reader](https://github.com/AndyFerns/Accessible-Math-Reader) | A screen-reader-first mathematical accessibility toolkit for converting LaTeX, MathML, and plaintext/Unicode math into speech, Braille, and navigable ARIA structures. |  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Dockerfile](https://img.shields.io/badge/Dockerfile-gray?style=for-the-badge) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white) |
 | [Determa](https://github.com/AndyFerns/Determa) | Programming Language built from scratch, imitating C with type-safety, a garbage collector and a self-made compiler |  ![Batchfile](https://img.shields.io/badge/Batchfile-gray?style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-gray?style=for-the-badge) |
-<!--END_PROJECTS-->
-
-## Current Endeavors
-
-- Working on projects related to software development.
-- Learning Rust to enhance my systems programming skills.
-- Looking to collaborate on exciting projects and open-source contributions.
+END_PROJECTS -->
 
 ## Let's Connect
 
-Feel free to reach out to me:
+```bash
+echo "Feel free to reach out to me":
 
-- Email: [write2andrew.important@gmail.com](mailto:write2andrew.important@gmail.com)
+Email: [write2andrew.important@gmail.com](mailto:write2andrew.important@gmail.com)
 
-I'm always open to discussing new ideas and collaborations!
-
----
+echo "I'm always open to discussing new ideas and collaborations!"
+```
 
 *Thank you for visiting my profile!*
-
-
-<!---
-AndyFerns/AndyFerns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
