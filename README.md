@@ -204,11 +204,15 @@ END_PROJECTS -->
 ## Let's Connect
 
 ```bash
-echo "Feel free to reach out to me":
+$ contact --email
+write2andrew.important@gmail.com
+```
 
-Email: [write2andrew.important@gmail.com](mailto:write2andrew.important@gmail.com)
-
-echo "I'm always open to discussing new ideas and collaborations!"
+```bash
+$ collaborate --status
+✓ accepting ideas
+✓ open to collaborations
+✓ always learning
 ```
 
 *Thank you for visiting my profile!*
