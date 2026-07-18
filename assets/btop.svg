@@ -130,12 +130,14 @@
   <text x="74.6" y="307.0" fill="#6e7681" font-weight="normal">Program</text>
   <text x="293.0" y="307.0" fill="#6e7681" font-weight="normal">Stack</text>
   <text x="573.8" y="307.0" fill="#6e7681" font-weight="normal">Status</text>
+  <text x="667.4" y="307.0" fill="#6e7681" font-weight="normal">Type</text>
   <text x="831.2" y="307.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="326.0" fill="#444c56" font-weight="normal">│</text>
   <text x="35.6" y="326.0" fill="#5de4c7" font-weight="bold">001</text>
   <text x="66.8" y="326.0" fill="#e6edf3" font-weight="bold">GBCee</text>
   <text x="293.0" y="326.0" fill="#6e7681" font-weight="normal">C · SDL2 · ASM</text>
   <text x="573.8" y="326.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="326.0" fill="#3ec6a8" font-weight="normal">emulator</text>
   <text x="831.2" y="326.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="345.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="345.0" fill="#6e7681" font-weight="normal">Gameboy emulator built entirely in C + SDL2</text>
@@ -145,6 +147,7 @@
   <text x="66.8" y="364.0" fill="#e6edf3" font-weight="bold">Determa</text>
   <text x="293.0" y="364.0" fill="#6e7681" font-weight="normal">C · Compiler · GC</text>
   <text x="573.8" y="364.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="364.0" fill="#3ec6a8" font-weight="normal">language</text>
   <text x="831.2" y="364.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="383.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="383.0" fill="#6e7681" font-weight="normal">Programming language from scratch with type-safety &amp; GC</text>
@@ -154,6 +157,7 @@
   <text x="66.8" y="402.0" fill="#e6edf3" font-weight="bold">ruclouds</text>
   <text x="293.0" y="402.0" fill="#6e7681" font-weight="normal">Rust · TUI</text>
   <text x="573.8" y="402.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="402.0" fill="#3ec6a8" font-weight="normal">cli tool</text>
   <text x="831.2" y="402.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="421.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="421.0" fill="#6e7681" font-weight="normal">Animated drifting clouds in your terminal</text>
@@ -163,6 +167,7 @@
   <text x="66.8" y="440.0" fill="#e6edf3" font-weight="bold">Automated-Reasoning-Project</text>
   <text x="293.0" y="440.0" fill="#6e7681" font-weight="normal">Python · NLP · FOL</text>
   <text x="573.8" y="440.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="440.0" fill="#3ec6a8" font-weight="normal">research</text>
   <text x="831.2" y="440.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="459.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="459.0" fill="#6e7681" font-weight="normal">Automated Reasoning in First Order Logic using NLP</text>
@@ -172,6 +177,7 @@
   <text x="66.8" y="478.0" fill="#e6edf3" font-weight="bold">MemoBase</text>
   <text x="293.0" y="478.0" fill="#6e7681" font-weight="normal">Python · LLM · Vector Search</text>
   <text x="573.8" y="478.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="478.0" fill="#3ec6a8" font-weight="normal">library</text>
   <text x="831.2" y="478.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="497.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="497.0" fill="#6e7681" font-weight="normal">Offline-first codebase memory &amp; intelligent code analysis</text>
@@ -181,6 +187,7 @@
   <text x="66.8" y="516.0" fill="#e6edf3" font-weight="bold">Accessible-Math-Reader</text>
   <text x="293.0" y="516.0" fill="#6e7681" font-weight="normal">JS · Python · ARIA · LaTeX</text>
   <text x="573.8" y="516.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="516.0" fill="#3ec6a8" font-weight="normal">toolkit</text>
   <text x="831.2" y="516.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="535.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="535.0" fill="#6e7681" font-weight="normal">Screen-reader-first math toolkit: LaTeX → Speech / Braille</text>
@@ -190,6 +197,7 @@
   <text x="66.8" y="554.0" fill="#e6edf3" font-weight="bold">vscode-dir-builder</text>
   <text x="293.0" y="554.0" fill="#6e7681" font-weight="normal">TypeScript · VS Code Extension</text>
   <text x="573.8" y="554.0" fill="#5de4c7" font-weight="normal">● running</text>
+  <text x="667.4" y="554.0" fill="#3ec6a8" font-weight="normal">extension</text>
   <text x="831.2" y="554.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="573.0" fill="#444c56" font-weight="normal">│</text>
   <text x="66.8" y="573.0" fill="#6e7681" font-weight="normal">Convert LLM directory trees into real files and folders</text>
