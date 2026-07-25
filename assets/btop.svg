@@ -74,7 +74,7 @@
   <text x="605.0" y="155.0" fill="#c9d1d9" font-weight="normal">▸ Compiler design</text>
   <text x="831.2" y="155.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="174.0" fill="#444c56" font-weight="normal">│</text>
-  <text x="35.6" y="174.0" fill="#c9d1d9" font-weight="normal">C / C++   </text>
+  <text x="35.6" y="174.0" fill="#c9d1d9" font-weight="normal">C         </text>
   <text x="121.4" y="174.0" fill="#5de4c7" font-weight="normal">████████████████████</text>
   <text x="277.4" y="174.0" fill="#1e2d3d" font-weight="normal">░░░░░░░░░░</text>
   <text x="363.2" y="174.0" fill="#6e7681" font-weight="normal">  67%</text>
@@ -109,7 +109,7 @@
   <text x="605.0" y="231.0" fill="#c9d1d9" font-weight="normal">▸ Internships</text>
   <text x="831.2" y="231.0" fill="#444c56" font-weight="normal">│</text>
   <text x="20.0" y="250.0" fill="#444c56" font-weight="normal">│</text>
-  <text x="35.6" y="250.0" fill="#c9d1d9" font-weight="normal">Kotlin    </text>
+  <text x="35.6" y="250.0" fill="#c9d1d9" font-weight="normal">C++       </text>
   <text x="121.4" y="250.0" fill="#5de4c7" font-weight="normal">████████</text>
   <text x="183.8" y="250.0" fill="#1e2d3d" font-weight="normal">░░░░░░░░░░░░░░░░░░░░░░</text>
   <text x="363.2" y="250.0" fill="#6e7681" font-weight="normal">  27%</text>
